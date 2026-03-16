@@ -1,8 +1,8 @@
 Hi, I'm Namitha Padigapati 👋
 Data Analyst | Python · SQL · Tableau · Power BI | EdTech · FinTech · AI
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![LinkedIn](https://www.linkedin.com/in/namitha-reddy-dataanalyst)
+![Email](mailto:namithareddy392@gmail.com)
+![Portfolio](https://namitha-padigapati.github.io)
 ---
 👩‍💻 About Me
 Detail-oriented Data Analyst with 3+ years of experience delivering data solutions across EdTech, FinTech, and AI product environments.
